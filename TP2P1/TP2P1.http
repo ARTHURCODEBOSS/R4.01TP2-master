@@ -1,0 +1,6 @@
+@TP2P1_HostAddress = http://localhost:5278
+
+GET {{TP2P1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
